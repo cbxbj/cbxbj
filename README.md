@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java、Big Data、Vue
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me 982324366@qq.com
+- 📫 How to reach me cbxbj@qq.com
 
 <!---
 macho-model/macho-model is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
