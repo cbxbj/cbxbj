@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @macho-model
+- 👋 Hi, I’m @cbxbj
 - 👀 I’m interested in Java、Big Data、Vue
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java
