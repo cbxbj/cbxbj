@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbxbj
-- 👀 I’m interested in Java、Big Data、Vue
-- 🌱 I’m currently learning Java、Big Data
+- 👀 I’m interested in Java、Go
+- 🌱 I’m currently learning Java、Go
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me cbxbj@qq.com
 
